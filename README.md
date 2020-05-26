@@ -1,2 +1,15 @@
 # ubuntu_startup
-My shell script config for debian based distros
+
+## Welcome, this is my ubuntu config
+
+- Git
+- Telegram
+- Docker and Docker Compose
+- Node
+- Telegram
+- Slack
+- Npm
+- FiraCode font
+- VSCode
+- Terminator terminal
+- Zsh and Oh my Zsh
