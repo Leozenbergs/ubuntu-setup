@@ -1,4 +1,4 @@
-# ubuntu_startup
+# ubuntu_setup
 
 ## Welcome, this is my ubuntu config
 
