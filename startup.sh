@@ -22,7 +22,7 @@ sudo apt-get install terminator
 printf "Installing Zsh and Oh my Zsh"
 
 sudo apt-get install zsh
-sh -c “$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 printf "Installing Git"
 
@@ -51,10 +51,3 @@ sudo chmod +x /usr/local/bin/docker-compose
 printf "Installing VSCode"
 
 sudo snap install code
-
-printf "Finished :)"
-
-
-
-
-
